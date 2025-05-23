@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ReduxCRUD-ReduxToolKit-master/.vs
+/.vs/Dynamic-DNA---DVT
+/.vs

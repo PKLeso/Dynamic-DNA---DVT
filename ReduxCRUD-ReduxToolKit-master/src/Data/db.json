@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John m",
+      "email": "jm@gmail.com",
+      "phone": "0782569854",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Admin User 0",
+      "email": "admin@gmail.com",
+      "phone": "0782569854",
+      "role": "staff"
+    },
+    {
+      "id": 3,
+      "name": "Admin User 2",
+      "email": "admin@gmail.com",
+      "phone": "0782569854",
+      "role": "staff"
+    },
+    {
+      "name": "Percy",
+      "email": "p@gmail.com",
+      "phone": "0123698547",
+      "role": "staff",
+      "id": 4
+    }
+  ]
+}
